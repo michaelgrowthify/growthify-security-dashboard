@@ -1,0 +1,7 @@
+.env
+.encrypt-secret
+# Plaintext source stays local — the repo is public, only encrypted output is committed
+public-encrypted/
+decrypted/
+node_modules/
+.DS_Store
